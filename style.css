@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+.input-group {
+  margin: 25px 5px;
+
+}
+.select-box {
+  margin: 5px 5px;
+}
+button {
+  cursor: pointer;
+  margin: 5px 5px;
+}
+button:hover {
+  background-color: rgb(214, 214, 214);
+}
+.frame {
+  border: 1px solid rgb(85, 85, 85);
+  padding: 20px;
+  margin-top: 20px;
+  width: 300px;
+}
+.error-alert {
+  color: tomato;
+  font-size: 14px;
+  /* padding-left: 95px; */
+}
